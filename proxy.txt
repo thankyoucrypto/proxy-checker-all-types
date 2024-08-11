@@ -1,0 +1,13 @@
+ip:port
+ip:port:login:pass
+login:pass:ip:port
+ip:port@login:pass
+login:pass@ip:port
+http://ip:port:login:pass
+http://login:pass:ip:port
+http://login:pass@ip:port
+http://ip:port@login:pass
+socks5://ip:port:login:pass
+socks5://login:pass:ip:port
+socks5://ip:port@login:pass
+socks5://login:pass@ip:port
